@@ -38,8 +38,9 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117)&nbsp; 
-![php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp; 
-![Spring](https://img.shields.io/badge/-spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
+![php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;  
+![Spring](https://img.shields.io/badge/-spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp; 
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=ff0000&labelColor=0D1117)&nbsp;  
 
   
 <div align="center">
