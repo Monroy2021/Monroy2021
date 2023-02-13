@@ -7,15 +7,16 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monroy2021&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div> 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Monroy2021&theme=gotham&hide_border=true&area=true) 
-
+<br>
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Monroy2021&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> 
+</p>  
+<br>
 
 
 
-### Habilidades Principales::
+### Habilidades Principales:
 
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117&textColor=a6120d)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; 
